@@ -45,7 +45,7 @@ export default function Home() {
           value={phone}
           onChange={(e) => setPhone(e.target.value)}
         />
-        <button type="submit">Add</button>
+        <button type="submit">Add User Data</button>
       </form>
 
       <h3>Users List</h3>
